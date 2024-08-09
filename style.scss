@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.foto{
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+main{
+    margin: 50px;
+}
+
+.Nome{
+    margin: 11px;
+}
+
+.Introdução{
+    margin: 12px;
+}
+
+.Cidade{
+    margin: 12px;
+}
+
+.Filmes{
+    margin: 15px;
+    color: gold;
+    background-color: rgba($color: #b621211c, $alpha: 1.0);
+}
+
+.Ol{
+    margin: 18px;
+}
+
+
+.Musicas{
+    margin: 15px;
+    color: gold;
+    background-color: rgba($color: #b621211c, $alpha: 1.0);
+}
+
+.Ul{
+    margin: 18px;
+}
+
+.Rodape {
+    color: white;
+    text-align: center;
+    background-color: #646464;
+}
